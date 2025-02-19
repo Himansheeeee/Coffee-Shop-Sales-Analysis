@@ -9,4 +9,14 @@
 
 - The coffee shop management wants to understand its sales trends and customer purchasing behavior to optimize operations and improve profitability. 
 
+## STEPS PERFORMED:
 
+1. Data Loading 
+2. Data Cleaning (Filter/ Sort, Datatypes)
+3. Data Transformation in Power Query( New Measures, New Columns etc. )
+4. Data Analysis with Pivot Tables and making charts 
+5. Data Visualization with Making Dashboards using all the charts together
+
+### Dashboard Report and Data Storytelling:
+
+- Made Presentation showing whole process what we have performed with steps and Data Storytelling
